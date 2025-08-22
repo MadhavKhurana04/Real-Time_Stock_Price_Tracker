@@ -24,15 +24,6 @@ Built using **SDL2**, **Dear ImGui**, and **ImPlot**.
 
 ---
 
-## 📂 Project Structure
-.
-├── main.cpp # Application entry point
-├── imgui/ # ImGui (as submodule)
-├── implot/ # ImPlot (as submodule)
-└── README.md # This file
-
----
-
 ## 🔧 Build Instructions
 
 ### 1. Clone with submodules
