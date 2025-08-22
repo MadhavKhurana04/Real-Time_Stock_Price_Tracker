@@ -33,7 +33,7 @@ cd <your-repo>
 If you already cloned without --recursive, run:
 git submodule update --init --recursive
 
-**### 2. Install dependencies**
+### 2. Install dependencies
 Make sure you have:
 SDL2
 OpenGL
@@ -45,7 +45,7 @@ On Windows:
 Install SDL2 development libraries.
 Ensure compiler supports C++17.
 
-**###3. Build**
+### 3. Build
 Using g++ directly:
 
 g++ -std=c++17 -Iimgui -Iimplot -I/usr/include/SDL2 \
@@ -56,5 +56,5 @@ mkdir build && cd build
 cmake ..
 make
 
-**###4. Run**
+### 4. Run
 ./stock_tracker
