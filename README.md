@@ -27,7 +27,7 @@ Built using **SDL2**, **Dear ImGui**, and **ImPlot**.
 ## 🔧 Build Instructions
 
 
-## 1. Clone with submodules
+1. Clone with Submodules
 ```bash
 git clone --recursive https://github.com/<your-username>/<your-repo>.git
 cd <your-repo>
