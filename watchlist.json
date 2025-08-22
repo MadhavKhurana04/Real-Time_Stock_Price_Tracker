@@ -1,0 +1,17 @@
+{
+    "max_alerts": {
+        "AAPL": 0.0,
+        "GOOGL": 0.0,
+        "MSFT": 0.0
+    },
+    "min_alerts": {
+        "AAPL": 0.0,
+        "GOOGL": 0.0,
+        "MSFT": 0.0
+    },
+    "watchlist": [
+        "AAPL",
+        "GOOGL",
+        "MSFT"
+    ]
+}
